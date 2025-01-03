@@ -1,0 +1,6 @@
+pandas
+pyyaml
+
+
+#pip install -r .\requirements.txt
+#in root project

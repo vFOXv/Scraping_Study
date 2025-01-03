@@ -1,0 +1,15 @@
+- city: Sydney
+  country: AU
+  main: Clouds
+  temp: 21
+  wind: 7.72
+- city: Odesa
+  country: UA
+  main: Clouds
+  temp: 7
+  wind: 6.68
+- city: New York
+  country: US
+  main: Clouds
+  temp: 1
+  wind: 6.17
